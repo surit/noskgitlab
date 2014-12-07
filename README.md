@@ -1,4 +1,4 @@
 noskgitlab
 ==========
 
-session on nosk
+This is a session on GIT by Nitesh Rijal for NOSK.
